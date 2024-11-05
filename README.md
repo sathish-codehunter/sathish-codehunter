@@ -1,9 +1,5 @@
 <div align="center">
-  
-## Centered Text
-
-This text will be centered in the README file.
-  
+  Hi I'm Selva Satheesh
 </div>
 - 👋 Hi, I’m @sathish-codehunter <br>
 - 👀 I’m interested in ...
