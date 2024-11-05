@@ -1,4 +1,10 @@
-<div style="align="center"">Hello World</div>
+<div align="center">
+  
+## Centered Text
+
+This text will be centered in the README file.
+  
+</div>
 - 👋 Hi, I’m @sathish-codehunter <br>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
